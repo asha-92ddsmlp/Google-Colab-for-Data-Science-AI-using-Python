@@ -270,7 +270,7 @@ This project can be applied in:
 
 **Project Title:** Property Price Estimator using Machine Learning
 
-**Institution:** University Academic Project
+**Institution:** Daffodil International Professional Training Institute
 
 ---
 
